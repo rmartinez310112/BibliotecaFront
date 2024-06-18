@@ -1,0 +1,37 @@
+.form-container{
+    text-align: center;
+}
+
+input[type="text"] {
+    height: 20px;
+    padding-left: 15px;
+    margin: 5px;
+    width: 200px;
+
+}
+
+input[type="date"] {
+    height: 25px;
+    padding-left: 15px;
+    margin: 5px;
+    width: 200px;
+
+}
+
+select{
+    height: 25px;
+    padding-left: 15px;
+    margin: 5px;
+    width: 200px;
+}
+
+
+input[type="button"],
+button {
+    height: 25px;
+    margin-left: 5px;
+}
+
+#divButton{
+    padding-top: 15px;
+}
